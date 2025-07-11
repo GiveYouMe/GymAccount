@@ -1,0 +1,113 @@
+# Tested Menu items	
+	
+1. 기초정보(B) 	
+	1.1. 환경설정 
+	1.2. 계정 정보 
+	1.3. 계정과목 정보 
+	1.4. 계좌/현금 정보 
+	운영성과표 2(비영리단체) 정보 
+	현금수지결산서 1(예산/결산) 정보 
+	현금수지결산서 2(예산/결산) 정보 
+	환율 정보 
+	
+	**기초잔액-계정 (Số 
+	기초잔액-계정과목 
+	기초잔액-계좌/현금 
+	기초잔액-운영성과표 2(비영리단체) 
+	기초잔액-현금수지결산서 1(예산/결산) 
+	기초잔액-현금수지결산서 2(예산/결산) 
+	기초금액-환율 
+	
+	**행정비공제 예외사항 
+	보안관련 단어전환 
+	가상계좌 
+	
+	**로그아웃 
+	종료 
+후원자 관련(S) 	
+	후원자 데이터
+	계정별 후원자 조회 
+	계정별 후원통계 
+	여러계정의 후원자 봉투출력 
+	후원자의 계정과목별 집계
+	후원자의 종합후원 집계 
+	후원회원조회 및 인쇄 
+	CMS관련 자료생성 및 분석 
+	
+팝업(P) (Popup)	
+	후원자 
+	후원자-선교사
+	계정(선교사) 
+	계정과목 
+	계좌및경로 
+	우편번호
+
+# Tested Forms	
+	User_login
+	MDIForm1
+	Form_Config
+	Form_Object_item
+	AccountObject
+	Form_Bank_Acct
+	Form_IS2_Conf
+	Form_Budget_Conf
+	Form_Exchange_Rate
+	Form_Basic_Obj
+	Form_Print2
+	Form_Basic_Item
+	Form_Basic_Bank
+	Form_Basic_IS2
+	Form_Basic_Budget
+	Form_Basic_Exchange
+	Form_Deduct
+	Form_WordTrans
+	Form_Virtual
+	
+	Registration
+	Form_Prgabout
+	Form_Backup
+	Form_Sponsor
+	PopUp_Zip
+	PopUp_Bank_Acct
+	PopUp_Acct_Item
+	PopUp_Acct_Obj
+	PopUp_Sponsor1
+	Form_Slipinput
+	
+	PopUp_Sponsor
+	PopUp_Sp1
+	Popup_Email2sp
+	Form_Sponsor1
+
+# Not Tested Menu
+
+전표처리(E) 	
+	전표입력
+	전표조회 
+	전표수정/복사 
+	일괄처리 - 행정비공제 
+	일괄처리 - 기타공제 
+	일괄처리 - 정기간행물 
+	전표마감 
+	
+재정 관련(A) 	
+	자금 일일시재 (Số dư tiền mặt hàng ngày)
+	계정별 자금수지 (Dòng tiền theo tài khoản)
+	전표분개장 (Sổ phân tích phiếu kế toán)
+	분개집계표(일/주/월계표) (Bảng tổng hợp bút toán (ngày/tuần/tháng))
+	현금/예금 수지합계 비교 (So sánh tổng hợp dòng tiền mặt/gửi ngân hàng)
+	현금/예금 수지내역 (Chi tiết dòng tiền mặt/gửi ngân hàng)
+	현금/예금 입출흐름표 (Bảng luồng thu chi tiền mặt/gửi ngân hàng)
+	계정별 계정과목수지 (Dòng tiền theo hạng mục trong tài khoản)
+	계정과목별 계정수지 (Dòng tiền theo tài khoản trong từng hạng mục)
+	영수증 출력 (In biên lai)
+	
+재무제표(F)  	
+	  대차대조표(B/S)  
+	  운영성과표 1(I/S)        
+	  운영성과표 2(비영리단체) 
+	  현금수지결산서 1(예산/결산)
+	  현금수지결산서 2(예산/결산) 
+	총계정원장 
+	합계잔액시산표    
+
