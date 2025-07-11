@@ -89,6 +89,25 @@
 	PopUp_Sp1
 	Popup_Email2sp
 	Form_Sponsor1
+ -
+	Form_Print9
+	Form_Print5
+	Form_IS2_Mission
+	Form_BudgetSettlement
+	Form_Print8
+	Form_BudgetSettlement2
+	Form_Print10
+	Form_Print1
+	Form_Print4
+	Form_Print8_1
+	Form_Print2
+	Form_Print13
+	Form_Print7
+	Form_Print6
+	Form_Print12
+	Form_Slipclose
+	Form_Book
+
 
 # Not Tested Menu
 
