@@ -78,13 +78,13 @@
    
 	5.8. CMS관련 자료생성 및 분석 : Tested screen rendering and button click actions.
 	
-7. 팝업(P) (Popup)	
-	6.1. 후원자 
-	6.2. 후원자-선교사
-	6.3. 계정(선교사) 
-	6.4. 계정과목 
-	6.5. 계좌및경로 
-	6.6. 우편번호
+6. 팝업(P) (Popup)	
+	6.1. 후원자 : Tested screen rendering and button click actions.
+	6.2. 후원자-선교사 : Error
+	6.3. 계정(선교사) : Tested screen rendering and button click actions.
+	6.4. 계정과목 : Tested screen rendering and button click actions.
+	6.5. 계좌및경로 : Tested screen rendering and button click actions.
+	6.6. 우편번호 : Tested screen rendering and button click actions.
 
 ```
 
