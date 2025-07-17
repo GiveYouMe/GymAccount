@@ -124,20 +124,20 @@
 	2.7. 전표마감 
 	
 4. 재정 관련(A) 	
-	3.1. 자금 일일시재 (Số dư tiền mặt hàng ngày)
-	3.2. 계정별 자금수지 (Dòng tiền theo tài khoản)
+	3.1. 자금 일일시재 
+	3.2. 계정별 자금수지
    
-	3.3. 전표분개장 (Sổ phân tích phiếu kế toán)
-	3.4. 분개집계표(일/주/월계표) (Bảng tổng hợp bút toán (ngày/tuần/tháng))
+	3.3. 전표분개장
+	3.4. 분개집계표(일/주/월계표)
    
-	3.5. 현금/예금 수지합계 비교 (So sánh tổng hợp dòng tiền mặt/gửi ngân hàng)
-	3.6. 현금/예금 수지내역 (Chi tiết dòng tiền mặt/gửi ngân hàng)
-	3.7. 현금/예금 입출흐름표 (Bảng luồng thu chi tiền mặt/gửi ngân hàng)
+	3.5. 현금/예금 수지합계 비교 
+	3.6. 현금/예금 수지내역 
+	3.7. 현금/예금 입출흐름표
 
-	3.8. 계정별 계정과목수지 (Dòng tiền theo hạng mục trong tài khoản)
-	3.9. 계정과목별 계정수지 (Dòng tiền theo tài khoản trong từng hạng mục)
+	3.8. 계정별 계정과목수지
+	3.9. 계정과목별 계정수지
    
-	3.10.영수증 출력 (In biên lai)
+	3.10.영수증 출력 
 	
 5. 재무제표(F)  	
 	4.1. 대차대조표(B/S)  
