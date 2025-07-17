@@ -38,31 +38,31 @@
    
 	2.7. 전표마감 : Tested screen rendering and button click actions.
 	
-4. 재정 관련(A) 	
-	3.1. 자금 일일시재 
-	3.2. 계정별 자금수지
+3. 재정 관련(A) 	
+	3.1. 자금 일일시재 : Tested screen rendering and button click actions.
+	3.2. 계정별 자금수지: Tested screen rendering and button click actions.
    
-	3.3. 전표분개장
-	3.4. 분개집계표(일/주/월계표)
+	3.3. 전표분개장: Tested screen rendering and button click actions.
+	3.4. 분개집계표(일/주/월계표): Tested screen rendering and button click actions.
    
-	3.5. 현금/예금 수지합계 비교 
-	3.6. 현금/예금 수지내역 
-	3.7. 현금/예금 입출흐름표
+	3.5. 현금/예금 수지합계 비교 : Tested screen rendering and button click actions.
+	3.6. 현금/예금 수지내역 : Tested screen rendering and button click actions.
+	3.7. 현금/예금 입출흐름표: Tested screen rendering and button click actions.
 
-	3.8. 계정별 계정과목수지
-	3.9. 계정과목별 계정수지
+	3.8. 계정별 계정과목수지: Tested screen rendering and button click actions.
+	3.9. 계정과목별 계정수지: Tested screen rendering and button click actions.
    
-	3.10.영수증 출력 
+	3.10.영수증 출력 : Tested screen rendering and button click actions.
 	
-5. 재무제표(F)  	
-	4.1. 대차대조표(B/S)  
-	4.2. 운영성과표 1(I/S)        
-	4.3. 운영성과표 2(비영리단체) 
-	4.4. 현금수지결산서 1(예산/결산)
-	4.5. 현금수지결산서 2(예산/결산)
+4. 재무제표(F)  	
+	4.1. 대차대조표(B/S) : Tested screen rendering and button click actions.
+	4.2. 운영성과표 1(I/S) : Tested screen rendering and button click actions.       
+	4.3. 운영성과표 2(비영리단체) : Tested screen rendering and button click actions.
+	4.4. 현금수지결산서 1(예산/결산) : Tested screen rendering and button click actions.
+	4.5. 현금수지결산서 2(예산/결산) : Tested screen rendering and button click actions.
    
-	4.6. 총계정원장 
-	4.7. 합계잔액시산표
+	4.6. 총계정원장 : Tested screen rendering and button click actions.
+	4.7. 합계잔액시산표 : Tested screen rendering and button click actions.
 
 5. 후원자 관련(S) 	
 	5.1. 후원자 데이터
