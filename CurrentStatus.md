@@ -4,8 +4,6 @@
 1. 기초정보(B)
 
 	1.1. 환경설정
-<img width="876" height="759" alt="image" src="https://github.com/user-attachments/assets/92ce1949-61be-42b0-a226-8439c97dc769" />
-
 	1.2. 계정 정보 
 	
 	1.3. 계정과목 정보 
