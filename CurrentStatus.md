@@ -65,18 +65,18 @@
 	4.7. 합계잔액시산표 : Tested screen rendering and button click actions.
 
 5. 후원자 관련(S) 	
-	5.1. 후원자 데이터
+	5.1. 후원자 데이터 : Tested screen rendering and button click actions.
    
-	5.2. 계정별 후원자 조회 
-	5.3. 계정별 후원통계 
-	5.4. 여러계정의 후원자 봉투출력
+	5.2. 계정별 후원자 조회 : Tested screen rendering and button click actions.
+	5.3. 계정별 후원통계 : Tested screen rendering and button click actions.
+	5.4. 여러계정의 후원자 봉투출력 : Tested screen rendering and button click actions.
    
-	5.5. 후원자의 계정과목별 집계
-	5.6. 후원자의 종합후원 집계
+	5.5. 후원자의 계정과목별 집계 : Tested screen rendering and button click actions.
+	5.6. 후원자의 종합후원 집계 : Tested screen rendering and button click actions.
    
-	5.7. 후원회원조회 및 인쇄
+	5.7. 후원회원조회 및 인쇄 : Tested screen rendering and button click actions.
    
-	5.8. CMS관련 자료생성 및 분석 
+	5.8. CMS관련 자료생성 및 분석 : Tested screen rendering and button click actions.
 	
 7. 팝업(P) (Popup)	
 	6.1. 후원자 
