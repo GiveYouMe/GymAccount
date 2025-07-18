@@ -1,5 +1,17 @@
 # Version History
 
+v0.0.7
+
+- Applied Banking Theme
+
+- Fixed bug Out of range
+
+- Remove some menu items
+
+- Fixed bug reported on Notion
+
+
+
 v0.0.6
 
   - Removed sensitive information from appsettings.json
