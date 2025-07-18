@@ -88,7 +88,7 @@
 
 7. 도구(U)
 	7.1 DB백업(일, 월, 년) : Tested screen rendering and button click actions.
-	7.2 후원자DB 엑셀파일로 저장 : Error about out of range
+	7.2 후원자DB 엑셀파일로 저장 : Error about out of range. Slowly
 	7.3 DB최적화/사용자로그인/임시파일정리: Tested screen rendering and button click actions.
 
 8. 도움말(H)
