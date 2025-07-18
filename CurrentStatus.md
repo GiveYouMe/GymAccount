@@ -87,9 +87,9 @@
 	6.6. 우편번호 : Tested screen rendering and button click actions.
 
 7. 도구(U)
-	7.1 DB백업(일, 월, 년)
-	7.2 후원자DB 엑셀파일로 저장
-	7.3 DB최적화/사용자로그인/임시파일정리
+	7.1 DB백업(일, 월, 년) : Tested screen rendering and button click actions.
+	7.2 후원자DB 엑셀파일로 저장 : Error about out of range
+	7.3 DB최적화/사용자로그인/임시파일정리: Tested screen rendering and button click actions.
 
 8. 도움말(H)
 	8.1 도움말 : Missing file "C:\Program Files (x86)\GymAccount\Help\GymAccount.chm"
