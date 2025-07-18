@@ -80,14 +80,14 @@
 	
 6. 팝업(P) (Popup)	
 	6.1. 후원자 : Tested screen rendering and button click actions.
-	6.2. 후원자-선교사 : Error
+	6.2. 후원자-선교사 : Error about out of range
 	6.3. 계정(선교사) : Tested screen rendering and button click actions.
 	6.4. 계정과목 : Tested screen rendering and button click actions.
 	6.5. 계좌및경로 : Tested screen rendering and button click actions.
 	6.6. 우편번호 : Tested screen rendering and button click actions.
 
 7. 도구(U)
-	7.1 DB백업(일, 월, 년) : Tested screen rendering and button click actions.
+	7.1 DB백업(일, 월, 년) : Tested screen rendering and button click actions. -  Slowly 
 	7.2 후원자DB 엑셀파일로 저장 : Error about out of range. Slowly
 	7.3 DB최적화/사용자로그인/임시파일정리: Tested screen rendering and button click actions.
 
