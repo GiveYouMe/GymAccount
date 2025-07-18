@@ -90,6 +90,9 @@
 	7.1 DB백업(일, 월, 년)
 	7.2 후원자DB 엑셀파일로 저장
 	7.3 DB최적화/사용자로그인/임시파일정리
+
+8. 도움말(H)
+	8.1 도움말 : Missing file "C:\Program Files (x86)\GymAccount\Help\GymAccount.chm"
 ```
 
 # Tested Forms	
