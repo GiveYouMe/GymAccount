@@ -1,5 +1,15 @@
 # Version History
 
+v0.0.8
+
+- Customized UI for multiple forms
+
+- Fixed various bugs
+
+- Improved overall performance
+
+- Tested and validated against the original VB6 version
+ 
 v0.0.7
 
 - Applied Banking Theme
@@ -8,7 +18,7 @@ v0.0.7
 
 - Remove some menu items
 
-- Fixed bug reported on Notion
+- Tested and compared to VB6
 
 
 
