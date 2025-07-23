@@ -2,7 +2,6 @@
 
 v0.0.9
 
-- Fix Lunch button in installation
 
 - Redesign Form_Batch1 due to failed conversion
 
