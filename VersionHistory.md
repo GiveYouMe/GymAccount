@@ -1,5 +1,28 @@
 # Version History
 
+v0.0.10
+
+-Change Popup_Email from using sending email api instead of call direct smtp from .ini
+
+-Fixed Luanch button in installation, and improve auto build script
+
+-Remove some menu items
+
+-Fix bug: The input string '정기간행물 발송비 7/8월 290' was not in a correct format.
+
+-Fix bug: Syntax error in INSERT INTO statement
+
+-Fix bug: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+
+-Fix bug: https://github.com/GiveYouMe/GymAccount/issues/94
+
+-Apply get safe index for all datagridview
+
+-Change color button, toolbar
+
+-Custom UI and fix on Form_SplipInput
+
+
 v0.0.9
 
 
