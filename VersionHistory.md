@@ -1,5 +1,9 @@
 # Version History
 
+v0.0.11
+
+-Fix Urgent - Serious: https://github.com/GiveYouMe/GymAccount/issues/95
+
 v0.0.10
 
 -Change Popup_Email from using sending email api instead of call direct smtp from .ini
