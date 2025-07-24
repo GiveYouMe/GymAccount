@@ -1,5 +1,9 @@
 # Version History
 
+v0.0.13
+
+-Fix issue 102, 99, 98, 97
+
 v0.0.12
 
 -Fix issue 94, 95, 96, 98, 99, 100, 101, 102
