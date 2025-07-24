@@ -1,5 +1,9 @@
 # Version History
 
+v0.0.12
+
+-Fix issue 94, 95, 96, 98, 99, 100, 101, 102
+
 v0.0.11
 
 -Fix Urgent - Serious: https://github.com/GiveYouMe/GymAccount/issues/95
