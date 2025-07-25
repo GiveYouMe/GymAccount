@@ -1,8 +1,19 @@
 # Version History
 
-v0.0.13
 
--Fix issue 102, 99, 98, 97
+v0.0.16
+
+-Fix issue: Printing Error from Notion
+
+v0.0.15
+
+-Fix issue 99
+
+-Fix issue: Menu2-7-Date-now-shown from Notion
+
+v0.0.14
+
+-Fixed issue 102,104,105,106,,107
 
 v0.0.12
 
