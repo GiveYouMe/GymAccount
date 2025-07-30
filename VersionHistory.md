@@ -1,5 +1,9 @@
 # Version History
 
+v0.0.24
+
+-Fixed issue  114, 124, 127
+
 v0.0.23
 
 -Fixed issue 114, 124
