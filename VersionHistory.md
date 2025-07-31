@@ -1,5 +1,11 @@
 # Version History
 
+v0.0.26
+
+-Fixed issue 114,
+
+-Removed Banking Theme Button Color
+
 v0.0.25
 
 -Fixed issue 114, 128
