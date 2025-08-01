@@ -1,5 +1,9 @@
 # Version History
 
+v0.0.28
+
+-Fixed issue 114 (3, 5, 6, 7)
+
 v0.0.27
 
 -Fixed issue 129 (A, B, C)
