@@ -1,5 +1,12 @@
 # Version History
 
+v0.0.33
+
+-Implemented new feature 137, 140
+
+-Fixed issue 142, 143
+
+
 v0.0.32
 
 -Implemented new feature 134
