@@ -1,4 +1,9 @@
 # Version History
+
+v0.0.31
+
+-Fixed issue 114, 129, 141
+
 v0.0.30
 
 -Fixed issue 114 (Mid-category, Subcategory )
