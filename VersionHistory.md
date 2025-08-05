@@ -1,5 +1,13 @@
 # Version History
 
+v0.0.35
+
+-Fixed 131, 142, 154, 155, 156
+
+v0.0.34
+
+-Fixed wrong menu item
+
 v0.0.33
 
 -Implemented new feature 137, 140
