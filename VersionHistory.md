@@ -1,85 +1,87 @@
 # Version History
 
+## v0.0.38
+- Fixed issue [#131](https://github.com/GiveYouMe/GymAccount/issues/131), [#146](https://github.com/GiveYouMe/GymAccount/issues/146), [#147](https://github.com/GiveYouMe/GymAccount/issues/147), [#148](https://github.com/GiveYouMe/GymAccount/issues/148), [#150](https://github.com/GiveYouMe/GymAccount/issues/150), [#151](https://github.com/GiveYouMe/GymAccount/issues/151), [#152](https://github.com/GiveYouMe/GymAccount/issues/152), [#153](https://github.com/GiveYouMe/GymAccount/issues/153), [#155](https://github.com/GiveYouMe/GymAccount/issues/155), [#157](https://github.com/GiveYouMe/GymAccount/issues/157), [#160](https://github.com/GiveYouMe/GymAccount/issues/160), [#162](https://github.com/GiveYouMe/GymAccount/issues/162)
+  
 ## v0.0.37
-
-- Fixed [#147], #160
+- Fixed issue [#147](https://github.com/GiveYouMe/GymAccount/issues/147), [#160](https://github.com/GiveYouMe/GymAccount/issues/160)
   
 ## v0.0.36
-
-- Fixed #144, #145, #146, #147, #148, #149, #150, #151, #152, #158, #160
+- Fixed issue [#144](https://github.com/GiveYouMe/GymAccount/issues/144), [#145](https://github.com/GiveYouMe/GymAccount/issues/145), [#146](https://github.com/GiveYouMe/GymAccount/issues/146), [#147](https://github.com/GiveYouMe/GymAccount/issues/147), [#148](https://github.com/GiveYouMe/GymAccount/issues/148), [#149](https://github.com/GiveYouMe/GymAccount/issues/149), [#150](https://github.com/GiveYouMe/GymAccount/issues/150), [#151](https://github.com/GiveYouMe/GymAccount/issues/151), [#152](https://github.com/GiveYouMe/GymAccount/issues/152), [#158](https://github.com/GiveYouMe/GymAccount/issues/158), [#160](https://github.com/GiveYouMe/GymAccount/issues/160)
 
 ## v0.0.35
-- Fixed #131, #142, #154, #155, #156
+- Fixed issue [#131](https://github.com/GiveYouMe/GymAccount/issues/131), [#142](https://github.com/GiveYouMe/GymAccount/issues/142), [#154](https://github.com/GiveYouMe/GymAccount/issues/154), [#155](https://github.com/GiveYouMe/GymAccount/issues/155), [#156](https://github.com/GiveYouMe/GymAccount/issues/156)
 
 ## v0.0.34
 - Fixed wrong menu item
 
 ## v0.0.33
-- Implemented new feature #137, #140
-- Fixed issue #142, #143
+- Implemented new feature [#137](https://github.com/GiveYouMe/GymAccount/issues/137), [#140](https://github.com/GiveYouMe/GymAccount/issues/140)
+- Fixed issue [#142](https://github.com/GiveYouMe/GymAccount/issues/142), [#143](https://github.com/GiveYouMe/GymAccount/issues/143)
 
 ## v0.0.32
-- Implemented new feature #134
+- Implemented new feature [#134](https://github.com/GiveYouMe/GymAccount/issues/134)
 
 ## v0.0.31
-- Fixed issue #114, #129, #141
+- Fixed issue [#114](https://github.com/GiveYouMe/GymAccount/issues/114), [#129](https://github.com/GiveYouMe/GymAccount/issues/129), [#141](https://github.com/GiveYouMe/GymAccount/issues/141)
 
 ## v0.0.30
-- Fixed issue #114 (Mid-category, Subcategory)
+- Fixed issue [#114](https://github.com/GiveYouMe/GymAccount/issues/114) (Mid-category, Subcategory)
 
 ## v0.0.29
-- Fixed issue #129 (A, B, C)
+- Fixed issue [#129](https://github.com/GiveYouMe/GymAccount/issues/129) (A, B, C)
 
 ## v0.0.28
-- Fixed issue #114 (3, 5, 6, 7)
+- Fixed issue [#114](https://github.com/GiveYouMe/GymAccount/issues/114) (3, 5, 6, 7)
 
 ## v0.0.27
-- Fixed issue #129 (A, B, C)
+- Fixed issue [#129](https://github.com/GiveYouMe/GymAccount/issues/129) (A, B, C)
 
 ## v0.0.26
-- Fixed issue #114
+- Fixed issue [#114](https://github.com/GiveYouMe/GymAccount/issues/114)
 - Removed Banking Theme Button Color
 
 ## v0.0.25
-- Fixed issue #114, #128
+- Fixed issue [#114](https://github.com/GiveYouMe/GymAccount/issues/114), [#128](https://github.com/GiveYouMe/GymAccount/issues/128)
 - Applied Banking Theme Button Color
 
 ## v0.0.24
-- Fixed issue #114, #124, #127
+- Fixed issue [#114](https://github.com/GiveYouMe/GymAccount/issues/114), [#124](https://github.com/GiveYouMe/GymAccount/issues/124), [#127](https://github.com/GiveYouMe/GymAccount/issues/127)
 
 ## v0.0.23
-- Fixed issue #114, #124
+- Fixed issue [#114](https://github.com/GiveYouMe/GymAccount/issues/114), [#124](https://github.com/GiveYouMe/GymAccount/issues/124)
 
 ## v0.0.22
-- Fixed issue #113, #123, #124, #125, #126, #127
+- Fixed issue [#113](https://github.com/GiveYouMe/GymAccount/issues/113), [#123](https://github.com/GiveYouMe/GymAccount/issues/123), [#124](https://github.com/GiveYouMe/GymAccount/issues/124), [#125](https://github.com/GiveYouMe/GymAccount/issues/125), [#126](https://github.com/GiveYouMe/GymAccount/issues/126), [#127](https://github.com/GiveYouMe/GymAccount/issues/127)
 
 ## v0.0.21
-- Fixed issue #113, #108
+- Fixed issue [#113](https://github.com/GiveYouMe/GymAccount/issues/113), [#108](https://github.com/GiveYouMe/GymAccount/issues/108)
 
 ## v0.0.20
-- Fixed issue #107, #108, #109, #111
+- Fixed issue [#107](https://github.com/GiveYouMe/GymAccount/issues/107), [#108](https://github.com/GiveYouMe/GymAccount/issues/108), [#109](https://github.com/GiveYouMe/GymAccount/issues/109), [#111](https://github.com/GiveYouMe/GymAccount/issues/111)
 
 ## v0.0.19
-- Fix issue #105, #113, #114, #122
+- Fix issue [#105](https://github.com/GiveYouMe/GymAccount/issues/105), [#113](https://github.com/GiveYouMe/GymAccount/issues/113), [#114](https://github.com/GiveYouMe/GymAccount/issues/114), [#122](https://github.com/GiveYouMe/GymAccount/issues/122)
 
 ## v0.0.18
-- Fixed issue #104, #105, #106, #107, #113, #119, #121
+- Fixed issue [#104](https://github.com/GiveYouMe/GymAccount/issues/104), [#105](https://github.com/GiveYouMe/GymAccount/issues/105), [#106](https://github.com/GiveYouMe/GymAccount/issues/106), [#107](https://github.com/GiveYouMe/GymAccount/issues/107), [#113](https://github.com/GiveYouMe/GymAccount/issues/113), [#119](https://github.com/GiveYouMe/GymAccount/issues/119), [#121](https://github.com/GiveYouMe/GymAccount/issues/121)
 
 ## v0.0.17
-- Fixed issue #97, #104, #105, #106, #107, #108, #109, #110, #111, #112, #113, #114, #115, #116, #117, #118, #119, #120
+- Fixed issue [#97](https://github.com/GiveYouMe/GymAccount/issues/97), [#104](https://github.com/GiveYouMe/GymAccount/issues/104), [#105](https://github.com/GiveYouMe/GymAccount/issues/105), [#106](https://github.com/GiveYouMe/GymAccount/issues/106), [#107](https://github.com/GiveYouMe/GymAccount/issues/107), [#108](https://github.com/GiveYouMe/GymAccount/issues/108), [#109](https://github.com/GiveYouMe/GymAccount/issues/109), [#110](https://github.com/GiveYouMe/GymAccount/issues/110), [#111](https://github.com/GiveYouMe/GymAccount/issues/111), [#112](https://github.com/GiveYouMe/GymAccount/issues/112), [#113](https://github.com/GiveYouMe/GymAccount/issues/113), [#114](https://github.com/GiveYouMe/GymAccount/issues/114), [#115](https://github.com/GiveYouMe/GymAccount/issues/115), [#116](https://github.com/GiveYouMe/GymAccount/issues/116), [#117](https://github.com/GiveYouMe/GymAccount/issues/117), [#118](https://github.com/GiveYouMe/GymAccount/issues/118), [#119](https://github.com/GiveYouMe/GymAccount/issues/119), [#120](https://github.com/GiveYouMe/GymAccount/issues/120)
 
 ## v0.0.16
 - Fix issue: Printing Error from Notion
 
 ## v0.0.15
-- Fix issue #99
+- Fix issue [#99](https://github.com/GiveYouMe/GymAccount/issues/99)
 - Fix issue: Menu2-7-Date-now-shown from Notion
 
 ## v0.0.14
-- Fixed issue #102, #104, #105, #106, #107
+- Fixed issue [#102](https://github.com/GiveYouMe/GymAccount/issues/102), [#104](https://github.com/GiveYouMe/GymAccount/issues/104), [#105](https://github.com/GiveYouMe/GymAccount/issues/105), [#106](https://github.com/GiveYouMe/GymAccount/issues/106), [#107](https://github.com/GiveYouMe/GymAccount/issues/107)
 
 ## v0.0.12
-- Fix issue #94, #95, #96, #98, #99, #100, #101, #102
+- Fix issue [#94](https://github.com/GiveYouMe/GymAccount/issues/94), [#95](https://github.com/GiveYouMe/GymAccount/issues/95), [#96](https://github.com/GiveYouMe/GymAccount/issues/96), [#98](https://github.com/GiveYouMe/GymAccount/issues/98), [#99](https://github.com/GiveYouMe/GymAccount/issues/99), [#100](https://github.com/GiveYouMe/GymAccount/issues/100), [#101](https://github.com/GiveYouMe/GymAccount/issues/101), [#102](https://github.com/GiveYouMe/GymAccount/issues/102)
+
 
 ## v0.0.11
 - Fix Urgent - Serious: [#95](https://github.com/GiveYouMe/GymAccount/issues/95)
