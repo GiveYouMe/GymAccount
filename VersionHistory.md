@@ -1,4 +1,8 @@
 # Version History
+
+## v0.0.59
+- Fixed issue [#208](https://github.com/GiveYouMe/GymAccount/issues/208), [#218](https://github.com/GiveYouMe/GymAccount/issues/218)
+
 ## v0.0.58
 - Fixed issues in GymAccount -Error Report emails
   
