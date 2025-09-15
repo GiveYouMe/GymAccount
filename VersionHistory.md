@@ -1,5 +1,8 @@
 # Version History
 
+## v0.0.70
+- Fixed issue #214 comment (https://github.com/GiveYouMe/GymAccount/issues/214)
+
 ## v0.0.69
 - Fixed issues in Slip form
 
