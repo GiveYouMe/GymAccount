@@ -1,5 +1,8 @@
 # Version History
 
+## v0.0.72
+- Fixed issues' comments
+
 ## v0.0.71
 - Fixed issues' comments
 
