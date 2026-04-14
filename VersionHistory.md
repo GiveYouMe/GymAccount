@@ -1,5 +1,8 @@
 # Version History
 
+## v0.0.163
+- Fixed issues [#187](https://github.com/GiveYouMe/GymAccount/issues/187)
+
 ## v0.0.162
 - Fixed issues [#304](https://github.com/GiveYouMe/GymAccount/issues/304), [#330](https://github.com/GiveYouMe/GymAccount/issues/330)
 
